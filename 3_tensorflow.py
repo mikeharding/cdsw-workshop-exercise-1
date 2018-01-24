@@ -103,15 +103,3 @@ for i in range(0,5):
 
 ### Explore using Tensorboard
 utils.start_tensorboard(logs_path, iframe=False)
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
