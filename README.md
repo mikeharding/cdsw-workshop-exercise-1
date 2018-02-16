@@ -45,4 +45,4 @@ install.packages('shiny')
   - Use of 'shiny' to provide interactive graphics inside CDSW
 
 ## Create a Job
-We recommend setting up a **"Nightly Analysis"** job to illustrate how data scientists can easily automate their projects.
+We recommend setting up a **"My Analysis"** job to illustrate how data scientists can easily shedule execution of code and automate producing outputs.
